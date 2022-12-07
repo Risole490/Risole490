@@ -4,12 +4,12 @@
 
 <p> :muscle: :headphones: Amo academia, música eletrônica e todo tipo de game(embora eu seja ruim). </p>
 
-![Octocat](https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png =250x250)
+![Octocat](https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png)
 
 ## :books: Atualmente estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-![](https://github.com/Risole490/Risole490/blob/main/hacker-pepe.gif)
+![](https://github.com/Risole490/Risole490/blob/main/hacker-pepe.gif width=50%)
 
 ## :computer: Feramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
