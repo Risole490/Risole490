@@ -7,12 +7,10 @@
 ![Octocat](https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png)
 
 ## :books: Atualmente estou aprendendo: 
-<hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-<div class="tenor-gif-embed" data-postid="23535916" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-pepe-meme-gif-23535916">Hacker Pepe GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-https://tenor.com/view/hacker-pepe-meme-gif-23535916
+<div class="tenor-gif-embed" data-postid="23535916" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-pepe-meme-gif-23535916"></div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## :computer: Feramentas e Tecnologias:
 <hr>
