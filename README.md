@@ -1,5 +1,5 @@
-# Seja bem-vindo ao meu GitHub! <img src="https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png" width="250" align=" right"/>
-<hr>
+# Seja bem-vindo ao meu GitHub! 
+<hr> <img src="https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png" width="250" align=" right"/>
 <p>:running: Meu nome é Leonardo Yan, tenho 21 anos e moro em São Paulo-SP. Apaixonado por programação, games e tudo que envolva tecnologia! Tenho uma coelha chamada Lucy, um cachorro chamado Truco e um imenso objetivo de trabalhar com programação e me tornar referência algum dia. :sunglasses: </p> 
 
 <p> :muscle: :headphones: Amo academia, música eletrônica e todo tipo de game(embora eu seja ruim). </p>
