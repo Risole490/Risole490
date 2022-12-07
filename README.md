@@ -10,7 +10,7 @@
 ## :computer: Feramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
 
-<p><img width="150" height="150" align="right" src="https://github.com/Risole490/Risole490/blob/main/hacker-pepe.gif" alt="Gif hacker pepe"/></p>
+<p><img width="200" height="200" align="right" src="https://github.com/Risole490/Risole490/blob/main/hacker-pepe.gif" alt="Gif hacker pepe"/></p>
 
 ## Contatos:
 <div>
