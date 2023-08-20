@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu GitHub! 
 <img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/71907948/206302297-4e9ef263-d22d-47fd-810b-ab5840ad6d09.png" alt="Octocat"/>
-<p>:running: Meu nome é Leonardo Yan, tenho 21 anos e moro em São Paulo-SP. Apaixonado por programação, games e tudo que envolva tecnologia! Tenho uma coelha chamada Lucy, um cachorro chamado Truco e um imenso objetivo de trabalhar com programação e me tornar referência algum dia. :sunglasses: </p> 
+<p>:running: Meu nome é Leonardo Yan, tenho 21 anos e sou de São Paulo/Brasil. Apaixonado por programação, games e tudo que envolva tecnologia! Tenho um cachorro chamado Truco e uma imensa vontade de sempre querer aprender tudo da área de tecnologia, saber como cada coisa funciona, onde estão presentes no dia a dia e me tornar um dev principalmente com foco em desenvolvimento de sites e sistemas. :sunglasses: </p> 
 
 <p> :muscle: :headphones: Amo academia, música eletrônica e todo tipo de game(embora eu seja ruim). </p>
 
