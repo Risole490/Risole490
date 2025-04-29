@@ -6,8 +6,6 @@
 ## :books: Atualmente estou aprendendo: 
 [![My Skills](https://skillicons.dev/icons?i=linux,nodejs,react,firebase,babel,express,docker)](https://skillicons.dev)
 
-<img width="200" height="200" align="top" src="https://github.com/Risole490/Risole490/blob/main/hacker-pepe.gif" alt="Gif hacker pepe"/>
-
 ## :computer: Feramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode,vercel)](https://skillicons.dev)
 
