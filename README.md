@@ -1,12 +1,12 @@
 # Seja bem-vindo ao meu GitHub! 
-<p>:running: Meu nome é Leonardo Yan, tenho 23 anos e sou de São Paulo/Brasil. Apaixonado por programação, games e tudo que envolva tecnologia! Tenho um cachorro chamado Truco e uma imensa vontade de sempre querer aprender tudo da área de tecnologia, saber como cada coisa funciona, onde estão presentes no dia a dia e me tornar um dev principalmente com foco em desenvolvimento de sites e sistemas. :sunglasses: </p> 
+<p> Olá! Meu nome é Leonardo Yan (23), de São Paulo. Estou em busca da minha primeira oportunidade como desenvolvedor, com foco em desenvolvimento de sites e sistemas.
 
-<p> :muscle: :headphones: Amo academia, música eletrônica e todo tipo de game. </p>
+Atualmente, meu aprendizado está concentrado em tecnologias como **JavaScript**, **HTML**, **CSS** e **React**. Para colocar esses conhecimentos em prática, estou desenvolvendo o projeto **MyContacts**, que tem como objetivo **Servir como um gerenciador de contatos dinâmico**. Fique à vontade para explorar meus repositórios e acompanhar meu desenvolvimento! 🚀</p> 
 
 ## :books: Atualmente estou aprendendo: 
-[![My Skills](https://skillicons.dev/icons?i=linux,nodejs,react,firebase,babel,express,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nodejs,react,sass,express,docker)](https://skillicons.dev)
 
-## :computer: Feramentas e Tecnologias:
+## :computer: Tecnologias e ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode,vercel)](https://skillicons.dev)
 
 
@@ -20,5 +20,5 @@
 <div>
 <a href="https://github.com/Risole490">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risole490&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Risole490&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Risole490&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
